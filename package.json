@@ -1,0 +1,29 @@
+{
+  "name": "upside-down",
+  "version": "1.0.0",
+  "description": "Stranger Things Upside Down effect",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "stranger things",
+    "upside down",
+    "effect",
+    "css",
+    "stranger things effect",
+    "stranger things css",
+    "stranger things upside down",
+    "stranger things upside down css",
+    "easter egg"
+  ],
+  "author": "Stefano Tagliabue",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "3.2.0",
+    "style-loader": "1.0.0",
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.9"
+  }
+}
